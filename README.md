@@ -1,7 +1,7 @@
 # SurviveX
 Survive Or **DIE**
 
-## Shop
+## [Shop](https://survivex-webshop.tebex.io/)
 ### Ranks
 #### VIP
 Price: £1.00
