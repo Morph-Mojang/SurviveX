@@ -3,11 +3,12 @@ Survive Or **DIE**
 
 ## Shop
 ### Ranks
-#### VIP  Rank
+##### VIP  Rank
 Price: £1.00
-##### Perks
+Perks:
 
 
-#### VIP+ Rank 
+##### VIP+ Rank 
 Price: £1.50
-##### Perks
+Perks:
+
