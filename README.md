@@ -1,5 +1,5 @@
 # SurviveX
-Survive Or **DIE**
+## Survive Or DIE
 
 ## [Shop](https://survivex-webshop.tebex.io/)
 ### Ranks
